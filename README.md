@@ -4,7 +4,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/AchimPieters/ESP8266-HomeKit-Smart-LED/master/images/Smart%20Led.jpg" width="300"/>
+<img src="https://raw.githubusercontent.com/AchimPieters/ESP8266-HomeKit-Smart-LED/master/images/Smart%20Led.jpg" width="200"/>
 
 
 <img src="https://raw.githubusercontent.com/AchimPieters/ESP8266-HomeKit-Fountain-light/master/Images/apple_logo.png" width="20"/>
